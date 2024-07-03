@@ -1,4 +1,4 @@
-import HR.HeartRates;
+import HR.HeartRates;// used package and import HeartRates
 import java.util.Scanner;
 
 public class HeartRatesTest {
