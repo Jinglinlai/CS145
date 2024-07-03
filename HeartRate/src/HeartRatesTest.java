@@ -1,3 +1,4 @@
+//Jing Lin and Vi
 import HR.HeartRates;// used package and import into this file for extra credit
 import java.util.Scanner;
 
