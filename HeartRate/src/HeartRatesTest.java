@@ -14,7 +14,7 @@ public class HeartRatesTest {
         System.out.print("Enter your year of birth: ");
         int birthYear = scanner.nextInt();  // Read an integer
 
-        // Assuming the current year is 2024 (can be replaced with actual year)
+        // Assuming the current year is 2024
         int currentYear = 2024;
 
         // Create a HeartRates object based on user input
