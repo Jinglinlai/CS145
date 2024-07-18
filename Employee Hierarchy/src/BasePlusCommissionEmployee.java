@@ -70,6 +70,11 @@ public class BasePlusCommissionEmployee {
       return getBaseSalary() + commissionEmployee.earnings();
    }
 
+   // Overloaded earnings method with a bonus parameter
+   public double earnings(double bonus) {
+      return getBaseSalary() + commissionEmployee.earnings() + bonus;
+   }
+
    // Override toString method to return a string representation of the object
    @Override
    public String toString() {
